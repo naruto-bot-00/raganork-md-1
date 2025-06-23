@@ -91,7 +91,7 @@ const baseConfig = {
     ACR_S: "ytu3AdkCu7fkRVuENhXxs9jsOW4YJtDXimAWMpJp",
     settingsMenu,
 
-    SESSION,
+    SESSION,"RGNK~lI6pfl8c
     logger,
     MAX_RECONNECT_ATTEMPTS,
     sequelize,
